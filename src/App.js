@@ -17,7 +17,7 @@ function App() {
   const fetchCourses = async () => {
     setLoading(true)
     try {
-      const response = await axios.get('http://localhost:3001/courses')
+      const response = await axios.get('https://mocki.io/v1/160780ff-7876-4244-8755-919f99f25b59')
       setCourses(response.data)
       setLoading(false)
     } catch (error) {

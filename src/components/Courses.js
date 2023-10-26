@@ -12,7 +12,7 @@ function Courses({propsCourses, removeCourse}) {
             {
                 propsCourses.map((course) => {
                     return (
-                        <Course propsCourseDetail={course} removeOneCourse={removeCourse} />
+                        <Course key={course.id} propsCourseDetail={course} removeOneCourse={removeCourse} />
                     )
                 })
             }
