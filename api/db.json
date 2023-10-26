@@ -1,0 +1,35 @@
+{
+    "courses":[
+        {
+            "id": 1,
+            "content": "Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.",
+            "title": "Angular",
+            "price": 69
+        },
+        {
+            "id": 2,
+            "content": "2Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.",
+            "title": "React",
+            "price": 79
+        },
+        {
+            "id": 3,
+            "content": "Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.",
+            "title": "Vue",
+            "price": 109
+        },
+        {
+            "id": 4,
+            "content": "Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.",
+            "title": "Laravel",
+            "price": 39
+        },
+        {
+            "id": 5,
+            "content": "Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.",
+            "title": "HTML",
+            "price": 0
+        }
+    ]
+
+}
